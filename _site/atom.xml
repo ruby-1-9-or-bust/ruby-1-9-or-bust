@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ruby 1.9 Or Bust</title>
+ <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/atom.xml" rel="self"/>
+ <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/"/>
+ <updated>2009-03-14T15:42:43-07:00</updated>
+ <id>http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/</id>
+ <author>
+   <name>Dr Nic Williams</name>
+   <email>ruby-1-9-or-bustwilliams@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to 'Ruby 1.9 Or Bust'</title>
+   <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/2009/03/14/first-post.html"/>
+   <updated>2009-03-14T00:00:00-07:00</updated>
+   <id>http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/2009/03/14/first-post</id>
+   <content type="html">&lt;p&gt;Ruby 1.9 Or Bust is going to be an awesome project.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
