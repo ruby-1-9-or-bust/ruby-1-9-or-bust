@@ -4,7 +4,7 @@
  <title>Ruby 1.9 Or Bust</title>
  <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/atom.xml" rel="self"/>
  <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/"/>
- <updated>2009-03-14T15:42:43-07:00</updated>
+ <updated>2009-03-14T16:16:12-07:00</updated>
  <id>http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/</id>
  <author>
    <name>Dr Nic Williams</name>
@@ -17,7 +17,25 @@
    <link href="http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/2009/03/14/first-post.html"/>
    <updated>2009-03-14T00:00:00-07:00</updated>
    <id>http://ruby-1-9-or-bust.github.com/ruby-1-9-or-bust/2009/03/14/first-post</id>
-   <content type="html">&lt;p&gt;Ruby 1.9 Or Bust is going to be an awesome project.&lt;/p&gt;</content>
+   <content type="html">&lt;h1 id='the_problem'&gt;The problem&lt;/h1&gt;
+
+&lt;p&gt;Ruby 1.9 is &lt;a href='http://ruby-lang.org'&gt;here&lt;/a&gt;, but not really. Ruby 1.9 won&amp;#8217;t really be here until we are all using it, and we won&amp;#8217;t all be using it until the majority of &lt;a href='http://isitruby19.com/'&gt;Ruby gems are working&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id='what_can_we_do'&gt;What Can We Do&lt;/h1&gt;
+
+&lt;p&gt;Here is the idea. What if instead of trying to make every project maintainer learn all the tricks and skills needed to convert a peice of code to 1.9, we put up a little money to get one expert to work on converting gems over. Someone to work with maintainers to get they&amp;#8217;re gems up to date. Someone who would gain practice as he converts gems after gem and who would dedicate real hours to making this conversion done. What at Rubyconf this year we could go around saying &amp;#8220;your not still using Ruby 1.8 are you?&amp;#8221; the same way we go around saying &amp;#8220;Your not still using Ruby 1.6 are you?&amp;#8221;.&lt;/p&gt;
+
+&lt;h1 id='how'&gt;How&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#8217;m putting myself out there to be that guy. However I still need to eat and my wife would be kind of pissed if we lost our house. So I need your help too. My goal is to be able to work 20 hours a week for the next 3 months on converting gems over. To do that I would need to get 200 of you to donate &amp;#36;45. I don&amp;#8217;t expect that to happen over night (it be cool though ;-) So in order to get started I&amp;#8217;m looking to raise &amp;#36; 3000, enough to work for 40 hours. Once that amount is raise the project will be officially on and I&amp;#8217;ll clear the time in my schedule to devote to it. If after one month we haven&amp;#8217;t made that target I&amp;#8217;ll clear time to do work for as much as we did raise. As a good faith effort I will be converting or discontinuing all of the gems I maintain in the mean time.&lt;/p&gt;
+
+&lt;h1 id='is_this_really_nessisary'&gt;Is This Really Nessisary&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#8217;ve been programming in Ruby since 2003. I remember the transition from 1.6 to 1.8, I was trying to learn Ruby at the time. It was painful, agonizing, and took way to long. As a community we are already doing better this time, but the faster we get on with it the fast er we get all the goodness that is 1.9. Also the sooner we don&amp;#8217;t have to maintain both, and the sooner noobs won&amp;#8217;t wander around saying things like &amp;#8220;but the documentation doesn&amp;#8217;t match, WTF?&amp;#8221;&lt;/p&gt;
+
+&lt;h1 id='should_i_trust_this_man'&gt;Should I Trust This Man?&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#8217;ve got a history working with Ruby, I&amp;#8217;ve done Rails full time professionaly since 2005 and I run my &lt;a href='http://notch8.com'&gt;Notch8&lt;/a&gt; consulting in San Diego. I&amp;#8217;m a regular member of &lt;a href='http://sdruby.com'&gt;SDRuby&lt;/a&gt;, feel free to look at our podcast to see me speak. I have a bachlors in Computer Science and have worked in embedded C and Java. I really respect and love the Ruby community and I want to see it flourish. I promise to be very transparent and accountable with my actions. I am used to tracking my hours, to keeping a schedule and to being accountable to clients. In this project you, the community, are my client and so my time logs will be completely open to you. You will know what I have worked on and how long it has taken me.&lt;/p&gt;</content>
  </entry>
  
  
