@@ -9,7 +9,7 @@ Ruby 1.9 is [here](http://ruby-lang.org), but not really.  Ruby 1.9 won't really
 
 # What Can We Do #
 
-Here is the idea.  What if instead of trying to make every project maintainer learn all the tricks and skills needed to convert a peice of code to 1.9, we put up a little money to get one expert to work on converting gems over.  Someone to work with maintainers to get they're gems up to date.  Someone who would gain practice as he converts gems after gem and who would dedicate real hours to making this conversion done.  What at Rubyconf this year we could go around saying "your not still using Ruby 1.8 are you?" the same way we go around saying "Your not still using Ruby 1.6 are you?".  
+Here is the idea.  What if instead of trying to make every project maintainer learn all the tricks and skills needed to convert a peice of code to 1.9, we put up a little money to get one expert to work on converting gems over.  Someone to work with maintainers to get they're gems up to date.  Someone who would gain practice as he converts gems after gem and who would dedicate real hours to making this conversion done.  What at Rubyconf this year we could go around saying "your not still using Ruby 1.8 are you?" the same way we go around saying "Your not still using Ruby 1.6 are you?".
 
 # How #
 
